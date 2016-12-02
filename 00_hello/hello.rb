@@ -1,1 +1,9 @@
 #write your code here
+def hello
+  return "Hello!"
+end
+
+
+def greet(person)
+  return "Hello, %s!" % person
+end
